@@ -16,24 +16,5 @@
 
 ## Пример таблицы:
 
-![Пример](./example.png)
+![Пример](./example1.png)
 
-## Советы
-
-- как работать с csv в Python: https://docs.python.org/3.6/library/csv.html
-
-## Документация по проекту
-
-Для запуска проекта необходимо:
-
-Установить зависимости:
-
-```bash
-pip install -r requirements.txt
-```
-
-Выполнить команду:
-
-```bash
-python manage.py runserver
-```
